@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 TVG-LOGO="https://www.formulatv.com/images/series/posters/2200/2244/1_m1.jpg", EL INTERNADO LAS CUMBRES
+https://github.com/LeoPeliculas/EL-INTERNADO-LAS-CUMBRES/raw/main/EL%20INTERNADO%20LAS%20CUMBRES.M3U
  
 #EXTINF:-1 TVG-LOGO="https://images-na.ssl-images-amazon.com/images/I/81PmVOfwHAL._AC_SL1500_.jpg", TERRANOVA
 https://raw.githubusercontent.com/LeoPeliculas/TERRANOVA/main/TERRANOVA%20(T01).M3U
